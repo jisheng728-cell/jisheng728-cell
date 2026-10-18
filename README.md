@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**jisheng728-cell/jisheng728-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# jisheng xie
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Master's student at Beijing University of Posts and Telecommunications (BUPT), China.
+
+My research interests include:
+- Infrared Small Target Detection
+- Multispectral Image Processing
+- Deep Learning for Computer Vision
+
+## Education
+
+- M.S. Student, Beijing University of Posts and Telecommunications, 2025–Present
+
+## Contact
+
+- Email: jisheng_xie@bupt.edu.cn
+  
